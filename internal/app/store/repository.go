@@ -1,6 +1,6 @@
 package store
 
-import "github.com/gopherschool/http-rest-api/internal/app/model"
+import "github.com/dev2033/http-rest-api/internal/app/model"
 
 // UserRepository ...
 type UserRepository interface {

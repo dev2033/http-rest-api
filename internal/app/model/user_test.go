@@ -3,7 +3,7 @@ package model_test
 import (
 	"testing"
 
-	"github.com/gopherschool/http-rest-api/internal/app/model"
+	"github.com/dev2033/http-rest-api/internal/app/model"
 	"github.com/stretchr/testify/assert"
 )
 

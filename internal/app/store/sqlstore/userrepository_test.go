@@ -3,9 +3,9 @@ package sqlstore_test
 import (
 	"testing"
 
-	"github.com/gopherschool/http-rest-api/internal/app/model"
-	"github.com/gopherschool/http-rest-api/internal/app/store"
-	"github.com/gopherschool/http-rest-api/internal/app/store/sqlstore"
+	"github.com/dev2033/http-rest-api/internal/app/model"
+	"github.com/dev2033/http-rest-api/internal/app/store"
+	"github.com/dev2033/http-rest-api/internal/app/store/sqlstore"
 	"github.com/stretchr/testify/assert"
 )
 
